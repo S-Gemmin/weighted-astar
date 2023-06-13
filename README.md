@@ -6,4 +6,6 @@ and assigns them a value based on their desirability. For example, if there is w
 not be completely unwalkable, but it can be set to have a higher weight, making it less desirable for game 
 characters to traverse. This approach can result in more realistic and efficient movement for game characters.
 
-![Pathfinding Image](https://github.com/S-Gemmin/weighted-astar/assets/123339567/17c15756-8ca6-4b91-8fc3-38563ea8a370)
+<p align="center">
+  <img src="https://github.com/S-Gemmin/weighted-astar/assets/123339567/17c15756-8ca6-4b91-8fc3-38563ea8a370" alt="Pathfinding Image">
+</p>
